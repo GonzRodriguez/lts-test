@@ -1,0 +1,68 @@
+{
+	"data": [
+		{
+			"name": "4* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 428.5
+			},
+			"description": "A heritage deluxe 4-star hotel, located a short walk from city highlights such as Buckingham Palace, Hyde Park and Mayfair."
+		},
+		{
+			"name": "5* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 298.5
+			},
+			"description": "NYX Hotel London Holborn by Leonardo Hotels boasts luxurious rooms, free WiFi and a relaxing spa and health club. Just 5 minutes walk from The British Museum."
+		},
+		{
+			"name": "5* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 140.5
+			},
+			"description": "In the heart of London’s Theatreland, The Piccadilly London West End is just 300 metres from Leicester Square. The 5-star hotel has a fitness centre and boutique bedrooms with free WiFi."
+		},
+		{
+			"name": "3* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 190.9
+			},
+			"description": "Enjoying a central location in the heart of London, right next to Finsbury Square Garden and a short walk from Liverpool Street, Montcalm Royal London House-City of London offers free WiFi."
+		},
+		{
+			"name": "5* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 240
+			},
+			"description": "Just 150 metres from Earls Court Tube Station, Park Grand London Kensington is a 5-minute walk from the famous Museum Mile. It features free WiFi, stylish bedrooms and a restaurant."
+		},
+		{
+			"name": "4* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 440
+			},
+			"description": "Situated in London and with Tower Bridge reachable within 1.4 km, Stapleton House - Ideal for Longer Stays!"
+		},
+		{
+			"name": "5* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 489.9
+			},
+			"description": "In the heart of London City district, this 5-star hotel offers luxury rooms with stylish bathrooms and iPod docks. The Barbican Train and Underground Station is less than a 10 minute walk away."
+		},
+		{
+			"name": "3* hotel", 
+			"price": {
+				"unit": "pp",
+				"value": 285.9
+			},
+			"description": "This is a fantastic package for a 9 day stay at a premium hotel."
+		}
+	]
+}
